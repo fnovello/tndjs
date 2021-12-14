@@ -1,0 +1,14 @@
+{
+  "name": "practicolab",
+  "version": "1.0.0",
+  "description": "hola nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franco",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
